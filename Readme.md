@@ -2,9 +2,9 @@
 
 ## Personal information
 
-#### Arafat Md Easin
-#### email: arafatmdeasin@inf.elte.hu
-#### Room: 7.33 (North Block)
+#### IKRAME NOUAR
+#### email: nouarikrame@inf.elte.hu
+#### Room: 7.15/7.16 (North Block)
 
 ### Packages 
 * NumPy
